@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Telegram mini app and DL model
+- 🌱 I’m currently learning linear algebra, neural nets and distributed systems
 <!--
 **hanglider/hanglider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
