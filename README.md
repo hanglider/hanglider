@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on DL model in trading
-- 🌱 I’m currently learning linear algebra, neural nets and distributed systems
 <!--
 **hanglider/hanglider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
